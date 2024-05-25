@@ -1,13 +1,13 @@
-# RobertoSergio
+# Roberto Sergio Ribeiro de Meneses
 <a href="https://www.github.com/RobertoSergio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
 <a href="mailto:robertomeneses12513321@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
 <a href="https://www.instagram.com/roberto_sergio21" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
-## 👋 Hello World!
+## 👋 Olá!
 
 Faço ciência da computação na UFC(Universidade Federal do Ceará)
 
-### About me
+### Sobre mim
 🎓 &nbsp;Fazendo graduação em Ciência da computação*
 <br/>💡&nbsp; Tenho interresse em **Ciência da computação, jogos e series**
 
