@@ -10,7 +10,8 @@ Faço ciência da computação na UFC(Universidade Federal do Ceará)
 ### Sobre mim
 <br/>🎓 &nbsp;Fazendo graduação em **Ciência da Computação**
 <br/>💡&nbsp; Tenho interresse em **Ciência da computação, jogos e series**
-<br/>🚀&nbsp; Membro do **Grupo de Desenvolvimento Aeroespacial da UFC**
+<br/>💻 &nbsp; Membro da **empresa jr da Ciência da Computação (CEOS)**
+<br/>🚀&nbsp; ex-Membro do **Grupo de Desenvolvimento Aeroespacial da UFC**
 
 ## GitHub Analytics
 
